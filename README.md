@@ -1,5 +1,8 @@
 # Taller 3 – Parte II: Tendencias internacionales de YouTube
 
+Santiago Bazzani 310457, Pablo Boada 314049, Juan David Henao 
+no 314237
+
 Pipeline ETL orquestado con Prefect sobre el dataset de Kaggle `datasnaek/youtube-new`:
 extracción desde Kaggle, transformación con pandas, carga en PostgreSQL (OLTP) y analítica con DuckDB (OLAP).
 
