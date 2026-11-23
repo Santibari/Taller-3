@@ -1,0 +1,8 @@
+prefect>=3.0
+pandas>=2.2
+numpy
+scikit-learn
+matplotlib
+psycopg2-binary
+duckdb>=0.9
+kaggle
